@@ -1,0 +1,9 @@
+c:\users\pheintz\documents\visual studio 2013\Projects\E4406A\E4406A\bin\Debug\E4406A.exe.config
+c:\users\pheintz\documents\visual studio 2013\Projects\E4406A\E4406A\bin\Debug\E4406A.exe
+c:\users\pheintz\documents\visual studio 2013\Projects\E4406A\E4406A\bin\Debug\E4406A.pdb
+c:\users\pheintz\documents\visual studio 2013\Projects\E4406A\E4406A\obj\Debug\E4406A.csprojResolveAssemblyReference.cache
+c:\users\pheintz\documents\visual studio 2013\Projects\E4406A\E4406A\obj\Debug\E4406A.Form1.resources
+c:\users\pheintz\documents\visual studio 2013\Projects\E4406A\E4406A\obj\Debug\E4406A.Properties.Resources.resources
+c:\users\pheintz\documents\visual studio 2013\Projects\E4406A\E4406A\obj\Debug\E4406A.csproj.GenerateResource.Cache
+c:\users\pheintz\documents\visual studio 2013\Projects\E4406A\E4406A\obj\Debug\E4406A.exe
+c:\users\pheintz\documents\visual studio 2013\Projects\E4406A\E4406A\obj\Debug\E4406A.pdb
